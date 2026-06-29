@@ -1,4 +1,4 @@
-# 
+# Instant Shotcut extensions for Mac OS | Updated Shotcut extensions for PC Windows. Featuring loop-library and rotoscoping — optimized for maximum performance on every platform.
 
 
 
